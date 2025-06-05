@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "destination": "Pipeline",
+    "address": "Pipeline, Oahu, Hawaii",
+    "country": "Oahu, Hawaii",
+    "difficultyLevel": 4,
+    "surfBreak": [
+      "Reef Break"
+    ],
+    "photo_url": "https://www.surfer.com/.image/c_fill,g_faces:center/MTk2Mjc3MDc5NzQ5MTc0ODEx/lineup_0998mentawai_indo_frieden_april_2013_.jpg"
+  },
+  {
+    "id": 2,
+    "destination": "Superbank",
+    "address": "Superbank, Gold Coast, Australia",
+    "country": "Gold Coast, Australia",
+    "difficultyLevel": 4,
+    "surfBreak": [
+      "Point Break"
+    ],
+    "photo_url": "https://www.surfsession.com/wp-content/uploads/2023/04/1602033499.jpg"
+  },
+  {
+    "id": 3,
+    "destination": "Supertubes",
+    "address": "Supertubes, Jeffreys Bay, South Africa",
+    "country": "Jeffreys Bay, South Africa",
+    "difficultyLevel": 5,
+    "surfBreak": [
+      "Point Break"
+    ],
+    "photo_url": "https://www.francetvpro.fr/sites/default/files/styles/mise_en_avant_100/public/images/2019/03/28/phototele-1031056_5.jpg.webp?itok=uE3nCdX0"
+  },
+  {
+    "id": 4,
+    "destination": "Manu Bay",
+    "address": "Manu Bay, Raglan, New Zealand",
+    "country": "Raglan, New Zealand",
+    "difficultyLevel": 2,
+    "surfBreak": [
+      "Point Break"
+    ],
+    "photo_url": "https://www.surfcorner.it/wp-content/uploads/2016/01/makuaXXLwinner.jpg"
+  },
+  {
+    "id": 5,
+    "destination": "Kitty Hawk",
+    "address": "Kitty Hawk, Outer Banks, North Carolina",
+    "country": "Outer Banks, North Carolina",
+    "difficultyLevel": 3,
+    "surfBreak": [
+      "Outer Banks"
+    ],
+    "photo_url": "https://www.searanchresort.com/wp-content/uploads/2019/01/8344281023_33fa1a21a4_z.jpg"
+  },
+  {
+    "id": 6,
+    "destination": "Pasta Point",
+    "address": "Pasta Point, Maldives",
+    "country": "Maldives",
+    "difficultyLevel": 3,
+    "surfBreak": [
+      "Reef Break"
+    ],
+    "photo_url": "https://www.surfholidays.com/assets/images/blog/2013-03-23-top-5-reef-breaks-in-europe-1.jpg"
+  },
+  {
+    "id": 7,
+    "destination": "Playa Chicama",
+    "address": "Playa Chicama, Lima, Peru",
+    "country": "Lima, Peru",
+    "difficultyLevel": 3,
+    "surfBreak": [
+      "Point Break"
+    ],
+    "photo_url": "https://www.lisamaria-corse.net/wp-content/uploads/2020/05/01.jpg"
+  },
+  {
+    "id": 8,
+    "destination": "The Bubble",
+    "address": "The Bubble, Fuerteventura, Canary Islands",
+    "country": "Fuerteventura, Canary Islands",
+    "difficultyLevel": 4,
+    "surfBreak": [
+      "Point Break"
+    ],
+    "photo_url": "https://cdn1.yumping.com/emp/fotos/28/E/019720828/640/scuola4-point-break-water-sport-center.jpg"
+  },
+  {
+    "id": 9,
+    "destination": "Skeleton Bay",
+    "address": "Skeleton Bay, Namibia ",
+    "country": "Namibia",
+    "difficultyLevel": 2,
+    "surfBreak": [
+      "Point Break"
+    ],
+    "photo_url": "https://surfbiscarrosse.com/wp-content/uploads/sites/50/2022/02/4da12bf6-d495-41e4-9258-7c5ba9aba1f3-edited.jpg"
+  },
+  {
+    "id": 10,
+    "destination": "Fatoumata",
+    "address": "Faubourg",
+    "country": "France",
+    "difficultyLevel": 4,
+    "surfBreak": [
+      "Point Break"
+    ],
+    "photo_url": "https://i.imgur.com/yCt14MU.jpeg"
+  }
+]
