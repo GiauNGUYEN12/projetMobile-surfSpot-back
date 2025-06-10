@@ -15,6 +15,6 @@ Ce dépôt contient le backend de l'application **SurfSpot**, développé en **G
 ## Configugation (.env)
 Avant de lancer l'application, créer un fichier `.env`à la racine du dossier back-end avec les variables suivantes:
 
-DB="postgres://user:password@localhost:5432/surfspot"
-PORT=4000
-SECRET=exemple1234
+- DB="postgres://user:password@localhost:5432/surfspot"
+- PORT=4000
+- SECRET=exemple1234
